@@ -1,9 +1,9 @@
 # BluePic
 
-*다른 언어로 보기: [English](README.md).*
-
 [![Build Status - Master](https://travis-ci.org/IBM/BluePic.svg?branch=master)](https://travis-ci.org/IBM/BluePic)
 ![Bluemix Deployments](https://deployment-tracker.mybluemix.net/stats/c45eeb765e77bf2bffd747e8d910e37d/badge.svg)
+
+*다른 언어로 보기: [English](README.md).*
 
 BluePic은 사진을 찍어서 다른 BluePic 사용자와 사진을 공유할 수 있는 사진 및 이미지 공유를 위한 샘플 애플리케이션입니다. 이 샘플 애플리케이션은 모바일 iOS 애플리케이션에서 Swift로 작성된 Kitura기반 서버 애플리케이션을 활용하는 방법을 보여줍니다.
 
